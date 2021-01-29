@@ -1,10 +1,12 @@
 import React from 'react'
+import PostItem from '../PostItem/PostItem'
 import './Posts.css'
 
 function Posts() {
   return (
     <div className="posts">
-      POST
+      POSTs
+      <PostItem />
     </div>
   )
 }

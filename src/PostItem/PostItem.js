@@ -4,7 +4,7 @@ import './PostItem'
 function PostItem() {
   return (
     <div>
-      
+      POStITem
     </div>
   )
 }
