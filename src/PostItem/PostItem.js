@@ -1,5 +1,5 @@
 import React from 'react'
-import './PostItem'
+import './styles.js'
 
 function PostItem() {
   return (

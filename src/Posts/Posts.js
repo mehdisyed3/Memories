@@ -1,6 +1,6 @@
 import React from 'react'
 import PostItem from '../PostItem/PostItem'
-import './Posts.css'
+import './styles.js'
 
 function Posts() {
   return (
